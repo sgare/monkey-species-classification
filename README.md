@@ -56,7 +56,7 @@ dataset/
 Clone the repository and install dependencies:
 
 bash
-git clone https://github.com/yourusername/monkey-species-classification.git
+git clone https://github.com/sgare/monkey-species-classification.git
 cd monkey-species-classification
 pip install -r requirements.txt
 
