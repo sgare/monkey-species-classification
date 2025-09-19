@@ -69,10 +69,14 @@ python train_monkey_classifier.py
 Check `accuracy_plot.png` and `confusion_matrix.png` for evaluation.  
 Use the saved model for inference on new images.
 
+---
+
 ## Results
 After training, the model achieves high accuracy in classifying monkey species. Visualizations include:
 accuracy_plot.png: Model accuracy and loss over epochs
 confusion_matrix.png: Model predictions vs actual labels
+
+---
 
 ## File Structure
 monkey-species-classification/
@@ -89,6 +93,8 @@ monkey-species-classification/
 ├── requirements.txt            # Dependencies
 └── README.md
 
+---
+
 ## Requirements
 Python 3.8+
 TensorFlow / Keras
@@ -100,8 +106,12 @@ Scikit-learn
 Install all dependencies using:
 pip install -r requirements.txt
 
+---
+
 ## Contributing
 Feel free to submit issues or pull requests for improvements. Any contributions to enhance model performance, add new species, or improve code structure are welcome!
+
+---
 
 ## License
 This project is licensed under the MIT License.
